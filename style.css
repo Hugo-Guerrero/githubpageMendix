@@ -5,6 +5,7 @@ body {
   background-color: #0A1F44;
   color: #F8F9FA;
   line-height: 1.6;
+  padding-bottom: 120px; /* Espacio para el pie de página fijo */
 }
 
 /* Encabezado */
@@ -296,3 +297,4 @@ img:hover, iframe:hover {
   transform: scale(1.03);
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
 }
+
